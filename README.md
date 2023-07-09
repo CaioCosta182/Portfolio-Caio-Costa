@@ -14,7 +14,7 @@ O site é dividido em seções que podem ser acessadas através do menu de naveg
 <b>Contato:</b> Informações de contato para que você possa entrar em contato comigo.<br>
 <h1 align="center">Acesse meu Portfólio</h1>
   
-Você pode acessar meu portfólio online através do link: [Portfólio Caio Costa](https://caiocosta182.github.io/Portifolio-Caio-Costa/)
+Você pode acessar meu portfólio online através do link: [Portfólio Caio Costa](https://caiocosta182.github.io/Portfolio-Caio-Costa/)
 
 
 <h1 align="center">Entre em Contato</h1>
